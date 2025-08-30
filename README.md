@@ -2,7 +2,21 @@
 
 This is a mini project of Book Management System using Enum + Array + Exp Handling .
 
-It allows user to : a) Add Books , b) View Books , c)Search Books , d) Update Books & e) Delete Books .
+It allows user to :-
+
+-> Add Books  
+
+-> View Books 
+
+-> Search Books 
+
+-> Update Books 
+
+-> Delete Books 
+
+---
+
+### Output ->
 
 
 <img width="743" height="962" alt="image" src="https://github.com/user-attachments/assets/6be3dcca-b369-41a7-8ccf-560b26e3d0cb" />
